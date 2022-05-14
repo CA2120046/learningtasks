@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LTE4 Poem</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap" rel="stylesheet">
+  </head>
+
+  <style>
+    body {
+      background-image: url('Habit.jpg');
+      background-repeat:  no-repeat;
+      background-size: 100%;
+    }
+    .font-one{
+      font-family:'Roboto', sans-serif;
+    }
+    .font-two{
+      font-family: 'Macondo', cursive;
+    }
+    .font-three{
+      font-family: "Courier New", Monaco, monospace;
+    }
+    .font-four{
+      font-family: 'Koulen', cursive;
+    }
+  </style>
+  <body text="white">
+    <center>
+    <h1>Habit</h1>
+
+          <p class="font-one">"You told me you were leaving
+            and that I played too much video games,<br>
+            Then I realized my bad habit and my addiction,<br>
+            I decided to stop because I feared of losing you.</br>
+
+          <p class="font-two">So I went by your place to tell you the good news,<br>
+             but instead I found you in the arms of someone new.</br>
+
+          <p class="font-three">I turned back and went home, <br>
+            sat on my chair and placed my hands on my mouse and keyboard,<br>
+            I guess it really is time to stop my bad habit.</br>
+
+          <p class="font-four">You."
+
+  </body>
+</html>
